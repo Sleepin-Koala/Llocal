@@ -1,0 +1,1 @@
+export type FileStatus = "available" | "missing" | "unreadable";
